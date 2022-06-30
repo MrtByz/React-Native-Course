@@ -26,6 +26,9 @@ console.log(x)
 y--
 console.log(y)
 
-
+console.log(Boolean(10>9))
+console.log(Boolean("Murat"))
+console.log(Boolean(false))
+console.log(Boolean(NaN))
 
 
